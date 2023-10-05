@@ -13,14 +13,14 @@ class SignInController extends GetxController {
     if (email.text.isNotEmpty && password.text.isNotEmpty) {
       isloading.value = true;
 
-      try {
-        AuthResponse response = await client.auth.signInWithPassword(
-          email: email.text,
-          password: password.text,
-        );
-        isloading.value = false;
+      // try {
+      //   AuthResponse response = await client.auth.signInWithPassword(
+      //     email: email.text,
+      //     password: password.text,
+      //   );
+      //   isloading.value = false;
         
-      } catch (e) {}
+      // } catch (e) {}
     }
   }
 }
