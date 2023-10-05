@@ -16,7 +16,7 @@ class _LoginPageState extends State<LoginPage> {
   final controller = Get.put(SignInController());
   void secure() {
     setState(() {
-      _passicon = !_passicon;
+      _passicon = !_passicon; 
     });
   }
 

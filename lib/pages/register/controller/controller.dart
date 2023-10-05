@@ -13,7 +13,7 @@ class RegisterController extends GetxController {
   TextEditingController password = TextEditingController();
 
   SupabaseClient client = Supabase.instance.client;
-
+ 
   Future<void> SignUp(BuildContext context) async {
     if (name.text.isNotEmpty &&
         email.text.isNotEmpty &&

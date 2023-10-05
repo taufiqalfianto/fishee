@@ -9,4 +9,4 @@ class RegisterBinding extends Bindings {
       () => RegisterController(),
     );
   }
-}
+} 

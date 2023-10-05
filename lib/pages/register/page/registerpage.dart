@@ -14,7 +14,7 @@ class RegisterPage extends StatefulWidget {
 class _RegisterPageState extends State<RegisterPage> {
   final controller = Get.put(RegisterController());
   final _formKey = GlobalKey<FormState>();
-  bool _passicon = true;
+  bool _passicon = true; 
 
   void secure() {
     setState(() {
