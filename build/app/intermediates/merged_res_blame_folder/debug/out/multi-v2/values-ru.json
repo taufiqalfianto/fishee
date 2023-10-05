@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Jam\\Portofolio\\fishee\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Taufiq Alfianto\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "484",
+                        "endColumns": "100",
+                        "endOffsets": "580"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Taufiq Alfianto\\.gradle\\caches\\transforms-3\\31424b878674c302162e277ee6a12e7b\\transformed\\browser-1.2.0\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,163,268,380",
+                        "endColumns": "107,104,111,103",
+                        "endOffsets": "158,263,375,479"
+                    }
+                }
+            ]
+        }
+    ]
+}
